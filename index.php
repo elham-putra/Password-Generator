@@ -20,7 +20,7 @@ if (isset($_POST['generate'])) {
 
 	<link rel="stylesheet" type="text/css" href="style.css">
 
-	<title>Strong Random Password Generator - Pure Coding</title>
+	<title>Strong Random Password Generator</title>
 </head>
 <body>
 	<div class="container">
